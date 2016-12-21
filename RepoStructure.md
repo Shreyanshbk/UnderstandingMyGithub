@@ -5,7 +5,7 @@ Inorder to keep the account clean and understandable, I planned to classify all 
 These are all the repositories that I make when I start learning something new or I start a new course. Such repositories will not have a complete project but scripts that will demonstrate any particular feature in subject I am learning. Example: A script showing how to add comments in C++. This repository may contain files that will store the links to the assignments(assignments.md) and projects(projects.md) of the course. The repository will be enough for anyone to know where I learnt a particular course from. Also, I will give the links in the description of the respective repository. 
 
 # 2. A
-Any repository with prefix 'A' contains assignments from any particular course. The name of the course can be found in the description of the repository. 
+Any repository with prefix 'A' contains assignments from any particular course. The name of the course can be found in the description of the repository. A separate repository is only made for assignments that are big enough.  
 
 # 3. P
 'P' prefix will be used for projects that will be blend of technologies I learnt in a particular assigments. The projects will also have course name in the description for which the project was made. 
