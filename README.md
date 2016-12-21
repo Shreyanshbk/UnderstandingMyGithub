@@ -1,0 +1,2 @@
+# UnderstandingMyGithub
+Hi, I am Shreyansh Kakadiya, creating my first GitHub Repository. I shall upload here all the files that I will create while learning different along with their corresponding assignments and projects. I plan to follow a particular structure of repository so it becomes easy to look through my work. This repository contains file that gives an Understanding of my GitHub Repo's. 
