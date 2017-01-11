@@ -90,6 +90,8 @@ Collaborating on github is usually done in the following way:
 4. Fetch and merge for any changes while you were working on the feature.              
 5. Push the branch onto the main repository for the owner to see and merge with master.    
 
+# 6. Git Remote
+If you do not belong to an organization to have a remote by the organization. There are many website that helps to host repositories online. GitHub and BitBucket to name a few. 
 
 
 
