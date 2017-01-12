@@ -93,6 +93,7 @@ Collaborating on github is usually done in the following way:
 # 6. Git Remote
 If you do not belong to an organization to have a remote by the organization. There are many website that helps to host repositories online. GitHub and BitBucket to name a few. 
 
+-- ref codeacademy Git Tutorials
 
 
 
