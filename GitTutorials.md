@@ -83,13 +83,15 @@ This command pushes the local changes to the original repository.
 
 # 5. The Workflow
 
-Collaborating on github is usually done in the following way: 
-1. Collaborator clones/fetches(and merges) the remote repository and with the local master before changing or adding any new feature. 
-2. Create a new branch to work on. 
-3. Develop the new feature and commit it on the branch. 
-4. Fetch and merge for any changes while you were working on the feature.
-5. Push the branch onto the main repository for the owner to see and merge with master. 
+Collaborating on github is usually done in the following way:    
+1. Collaborator clones/fetches(and merges) the remote repository and with the local master before changing or adding any new feature.   
+2. Create a new branch to work on.    
+3. Develop the new feature and commit it on the branch.                  
+4. Fetch and merge for any changes while you were working on the feature.              
+5. Push the branch onto the main repository for the owner to see and merge with master.    
 
+# 6. Git Remote
+If you do not belong to an organization to have a remote by the organization. There are many website that helps to host repositories online. GitHub and BitBucket to name a few. 
 
 
 
